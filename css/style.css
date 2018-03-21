@@ -1,0 +1,588 @@
+* {
+	font-family: 'lato' ,sans-serif;
+}
+
+
+
+.menu {
+		background-color:  #FFBF00;
+		padding: 3px 3px;
+		border-radius: 5px;
+
+}
+
+.menu h4 {
+		margin-left: 150px;
+		margin-top: -20px;
+		padding: 2px 2px;
+
+}
+
+.menu h2 {
+		margin-left: 150px;
+
+}
+
+.menu h2  a {             
+	list-style: none;             
+	text-decoration: none;
+
+
+
+} .listas ul {             
+	 margin-left: 900px;            
+	  margin-top :-60px;
+
+}
+
+.listas ul li {
+			display: inline;
+			padding:5px;
+}
+
+.listas ul li a {
+			display: inline-block;
+
+}
+
+.listas  a  {
+		list-style :none;
+		text-decoration:none;
+		background-color: #fff;
+		border-radius: 2px;
+		padding: 4px;
+		color: #000000;
+		font-size: 15px;
+}
+
+.listas a:hover {
+				background-color: #585858;
+				color: #FFBF00;
+				transition: .6s;
+}
+
+.logo img {
+			width: 90px;
+			margin-top: -80px;
+			margin-left:15px;
+			margin-bottom: 10px;
+
+}
+
+
+.corpo {
+	margin-top: -1px;
+	background-color: #6E6E6E;
+	padding: 1000px 100px;
+	border-radius: 2px;
+
+}
+.corpo img {
+		width: 300px;
+		height: 250px;
+		margin-left: 100px;
+		margin-top: 500px;
+}
+
+.rodape h3 {
+			font-size: 18px;
+			text-align: center;
+			margin-bottom: -5px;
+
+
+}
+
+.rodape p {
+			font-size: 14px;
+			margin-left: : 500px;
+			text-align: center;
+			margin-bottom: -5px;
+}
+.rodape  {
+		padding: 20px 20px;
+		background-color: #FFBF00;
+		border-radius: 3px;
+		margin-bottom: 10px;
+}
+
+.corpo p {
+		margin-left: 110px;
+		margin-top: -900px;
+		font-size: 30px;
+		color: #F7D358;
+
+}
+.bolo p
+	{
+	margin-top: -1800px;
+	margin-left: 300px;
+	font-size: 18px;
+
+}
+
+.bolo {
+	padding: 10px 10px;
+	
+	}
+
+
+.bolo img {
+		width: 300px;	
+		
+		margin-left: 200px;
+}
+
+.cenoura {
+		padding: 1px ;
+
+}
+
+.cenoura p {
+			margin-top: -1810px;
+			margin-left: 780px;
+			font-size: 18px;
+}
+
+.list2 {
+		padding: 5px 5px;	
+}
+
+.list2 ul li {
+			display: inline;
+}
+.list2 ul li a {
+			display: inline-block;
+			
+}
+
+.list2 ul {
+		margin-left: 770px;
+		margin-top: -1530px;
+
+}
+.list2 a {
+			background-color:#FFBF00;	
+			list-style: none;
+			text-decoration: none;
+			color: #000000;
+			border-radius: 3px;
+			padding: 5px 5px;
+
+			
+
+}
+
+.list2 a:hover {
+				background-color: #fff;
+				color:  black;
+				transition: .5s;
+
+}
+
+.list3 {
+		padding:10px 10px;
+}
+
+.list3	ul li {
+			display: inline;
+			
+}
+
+.list3 ul li a  {
+			display: inline-block;	
+}
+
+.list3 ul {
+		margin-left: 270px;
+		margin-top: -1540px;
+}	
+
+.list3 a {
+		background-color:#FFBF00;	
+		list-style: none;
+		text-decoration: none;
+		color: #000000;
+		border-radius: 3px;
+		padding: 5px 5px;
+			
+}
+
+.list3 a:hover {
+
+			background-color: #fff;
+			color:  black;
+			transition: .5s;
+	
+	}
+
+.ninho {
+		padding: 2px 2px; 
+}
+
+.list3 img {
+			width: 300px;
+			height: 250px;
+			margin-top: 120px;	
+			margin-left: 710px;
+}
+
+#bolo_9 {
+		margin-top: -1540px;
+		margin-left: 810px;
+		font-size: 18px;
+}
+
+#bolo_8 {
+		margin-top: -30px;
+		margin-left: 300px;
+		font-size: 18px;
+}
+
+.mo {	
+	margin-left: 0px;
+	margin-left: 250px;
+	margin-top: 300px;
+}
+
+.mo a {
+		display: inline-block;
+		background-color:#FFBF00;	
+		list-style: none;
+		text-decoration: none;
+		color: #000000;
+		border-radius: 3px;
+		padding: 5px 5px; 
+}
+.mo ul li {
+		display: inline-block;
+}
+
+.mo a:hover {
+			background-color: #fff;
+				color:  black;
+				transition: .5s;
+}
+
+.mi {
+		margin-left: 800px;
+		margin-top: -40px;		
+}
+
+.mi a{
+		display: inline-block;
+		background-color:#FFBF00;	
+		list-style: none;
+		text-decoration: none;
+		color: #000000;
+		border-radius: 3px;
+		padding: 5px 5px;
+}
+
+.mi ul li {
+		display: inline-block;
+}
+
+.mi a:hover {
+		background-color: #fff;
+				color:  black;
+				transition: .5s;
+}
+
+.banana img {
+	width: 300px;
+	margin-top: 300px;
+	margin-left: 190px;
+}
+
+.banana p {
+		margin-top: -280px;
+		margin-left: 280px;
+		font-size: 18px;
+}
+
+.bananabotao {
+		margin-left: 260px;
+		margin-top: 290px;
+}
+
+.bananabotao ul li {
+			display: inline-block;
+}
+
+.bananabotao a {
+			display: inline-block;
+			list-style: none;
+			text-decoration: none;
+			background-color:#FFBF00;	
+			color: #000000;
+			border-radius: 3px;
+			padding:5px 5px; 
+		}
+
+.bananabotao a:hover	{
+				color:  black;
+				transition: .5s;
+				background-color: #fff;
+				color:  black;
+				transition: .5s;
+}
+.continua p {
+			background-color: #6E6E6E;
+			padding: 50px 50px 10px;
+			margin-top: 400px;
+
+			
+	}
+
+/*começo agora estilizar pagina home*/ 
+
+.corpohome {
+		padding:530px 10px;
+		background-color: #6E6E6E;
+		margin-top: -1px;	
+		border-radius: 3px;
+		margin-bottom: -10px;
+}
+
+.corpohome p {
+		margin-top: -400px;
+		margin-left: 170px;
+		font-size: 22px;
+}
+
+.sobretext {
+		padding: 2px 2px ;
+
+}
+
+.sobretext p {
+		margin-top: -820px;
+		margin-left: 170px;
+		margin-right: 450px;
+		font-size:18px;
+		color: #fff;
+}
+
+.sobretext2 {
+		padding:2px 2px;
+
+
+}	
+
+.sobretext2 p {
+		margin-top: -768px;
+		margin-left: 170px;
+		margin-right: 480px;
+		font-size:18px;
+		color:#fff;	
+}
+
+/* Estilizar pagina do Bolo Gelado */
+
+.gelado {
+		padding: 600px 2px;
+		background-color:  #6E6E6E;	
+		margin: 0px;
+		margin: auto;
+		border-radius: 3px;
+		margin-top: -1px;
+	}
+.gelado p {
+		margin-top: -500px;
+		font-size: 18px;
+		text-align: center;
+	}
+.des {
+	padding: 2px 2px;
+
+}
+.des h4  {
+		text-align: center;
+		margin-top: -1000px;
+		font-size:18px;
+}
+.receita {
+		padding: 2px 2px ;
+
+}
+.receita ul {
+			margin-top: -900px;
+			margin-left: 500px;
+			color: #fff;
+
+		}
+/*Alinhar tabela */
+
+.tabela1 {
+		padding: 1px 1px ;
+		margin-left: 200px;
+		margin-right:200px;
+		margin-top:-200px;
+}	
+.tabela1 h4 {
+		margin-top: -400px;
+		text-align: center;
+		background-color: #E35757;
+		padding: 25px;
+}
+.tabela1 p {
+		text-align: center;
+		margin-top: -63px;
+
+		
+
+}
+.tabela1 table {
+		margin-left: 280px;
+
+
+}
+
+.tabela1 td {
+
+		text-align: center;
+}
+
+.rodape h3 {
+			font-size: 18px;
+			text-align: center;
+			margin-bottom: -5px;
+
+
+}
+
+.rodape p {
+			font-size: 14px;
+			margin-left: : 500px;
+			text-align: center;
+			margin-bottom: -5px;
+}
+.rodape  {
+		padding: 20px 20px;
+		background-color: #FFBF00;
+		border-radius: 3px;
+		margin-bottom: 10px;
+		margin-top: -5px;
+}
+
+.resto {
+		padding: 2px 2px; 
+		background-color: #6E6E6E;
+}
+
+.resto2 {
+		padding: 2px 2px;
+		
+}
+
+.restoz p {
+		margin-top: -800px;
+		margin-left: 170px;
+		color: #fff;	
+
+}
+.rodapez	 h3 {
+			font-size: 18px;
+			text-align: center;
+			margin-bottom: -5px;
+
+
+}
+
+.rodapez p {
+			font-size: 14px;
+			margin-left: : 500px;
+			text-align: center;
+			margin-bottom: -5px;
+}
+.rodapez  {
+		padding: 20px 20px;
+		background-color: #FFBF00;
+		border-radius: 3px;
+		margin-bottom: 10px;
+		margin-top: 100px;
+}
+
+.restoz p {
+		margin-top: -800px;
+		margin-left: 170px;
+		color: #fff;	
+
+}
+.rodape2	h3 {
+			font-size: 18px;
+			text-align: center;
+			margin-bottom: -5px;
+
+
+}
+
+.rodape2 p {
+			font-size: 14px;
+			margin-left: : 500px;
+			text-align: center;
+			margin-bottom: -5px;
+}
+.rodape2  {
+		padding: 20px 20px;
+		background-color: #FFBF00;
+		border-radius: 3px;
+		margin-bottom: 10px;
+		margin-top: 100px;
+}
+
+.rodapew	h3 {
+			font-size: 18px;
+			text-align: center;
+			margin-bottom: -5px;
+
+
+}
+
+.rodapew p {
+			font-size: 14px;
+			margin-left: : 500px;
+			text-align: center;
+			margin-bottom: -5px;
+}
+.rodapew  {
+		padding: 20px 20px;
+		background-color: #FFBF00;
+		border-radius: 3px;
+		margin-bottom: 10px;
+		margin-top: 100px;
+}
+
+
+
+}
+
+.rodapea	h3 {
+			font-size: 18px;
+			text-align: center;
+			margin-bottom: -5px;
+
+
+
+}
+
+.rodapea p {
+			font-size: 14px;
+			margin-left: : 520px;
+			text-align: center;
+			margin-bottom: -5px;
+			text-align: center;
+}
+.rodapea  {
+		padding: 20px 20px;
+		background-color: #FFBF00;
+		border-radius: 3px;
+		margin-bottom: 10px;
+		margin-top: 100px;
+}
+
+.resto2 p {
+		margin-left: 200px;
+		margin-top: -760px;
+
+}
